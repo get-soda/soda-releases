@@ -1,6 +1,6 @@
 # soda-releases
 
-Public distribution channel for the Soda macOS desktop app. Sparkle fetches
+Public distribution channel for the [Soda](https://www.getsoda.app) macOS desktop app. Sparkle fetches
 `appcast.xml` from this repo and downloads signed artifacts from `releases/`.
 
 ## Layout
