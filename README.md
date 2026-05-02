@@ -1,6 +1,6 @@
 # soda-releases
 
-Public distribution channel for the [Soda](https://www.getsoda.app) company brain app.
+Public distribution channel for the [Soda](https://www.getsoda.app) company brain app. For questions or feedback please visit the [Soda community Reddit channel](https://www.reddit.com/r/SodaCommunity/)
 
 ## Layout
 
