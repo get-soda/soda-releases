@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Soda</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Sat, 02 May 2026 08:09:25 +0800</pubDate>
+            <sparkle:version>202605011649</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/get-soda/soda-releases/main/releases/Soda-1.0.0.zip" length="15353405" type="application/octet-stream" sparkle:edSignature="/QU/xslSKHAgSIbbXQHB6LujoqRKt5vQvI2nSg8gLzb8MIt+X3BCwzV3E0Y7uLsB/PaUZP4P5MF8R8cahuW7CA=="/>
+        </item>
+    </channel>
+</rss>
