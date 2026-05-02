@@ -4,6 +4,17 @@
         <title>Soda</title>
         <item>
             <title>1.0</title>
+            <pubDate>Sat, 02 May 2026 08:11:34 +0800</pubDate>
+            <sparkle:version>202605021149</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/get-soda/soda-releases/main/releases/Soda-1.0.0.zip" length="15377165" type="application/octet-stream" sparkle:edSignature="zZRECQabmGShJcVvJBwxeXFqjIq65oVSs3dS8NFUk08ROxX6EFzD4IUpOSMVyPe+OriZX5dlmNrp41ZyHdwSDQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/get-soda/soda-releases/main/releases/Soda202605021149-202605020849.delta" sparkle:deltaFrom="202605020849" length="1803830" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="CovUvUptPHEpVq3oMklu4zKwPnPQJA3u8O/HfQ+75IuHOitPpwcKW0Iyheqmtm5pDv62Oqg34tCoMbIDKAn0Bw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Sat, 02 May 2026 08:42:09 +0800</pubDate>
             <sparkle:version>202605020849</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
@@ -23,14 +34,6 @@
             <sparkle:deltas>
                 <enclosure url="https://raw.githubusercontent.com/get-soda/soda-releases/main/releases/Soda202605020837-202605011649.delta" sparkle:deltaFrom="202605011649" length="1554986" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="UuDrek2XyLtUKdOiUk/3kKyPVsUL2Pq31nhG5+rWTfHH4Qg3QeHqaaqEnrhRmLuM5oLv8OKEWzLIZymXd88TCQ=="/>
             </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.0</title>
-            <pubDate>Sat, 02 May 2026 08:09:25 +0800</pubDate>
-            <sparkle:version>202605011649</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/get-soda/soda-releases/main/releases/Soda-1.0.0.zip" length="15353405" type="application/octet-stream" sparkle:edSignature="/QU/xslSKHAgSIbbXQHB6LujoqRKt5vQvI2nSg8gLzb8MIt+X3BCwzV3E0Y7uLsB/PaUZP4P5MF8R8cahuW7CA=="/>
         </item>
     </channel>
 </rss>
