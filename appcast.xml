@@ -15,34 +15,20 @@
             </sparkle:deltas>
         </item>
         <item>
-            <title>1.0.7</title>
-            <pubDate>Sat, 09 May 2026 21:45:05 +0800</pubDate>
-            <sparkle:version>202605092139</sparkle:version>
-            <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
+            <title>1.0.1</title>
+            <pubDate>Sat, 02 May 2026 10:32:17 +0800</pubDate>
+            <sparkle:version>202605041557</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/get-soda/soda-releases/main/releases/Soda-1.0.7.zip" length="15638962" type="application/octet-stream" sparkle:edSignature="iDo1ZqZ6PS0vmA76axqcFENZ94pvMQeYk7bxSdTyZpHtohseBVSG+SOWnNabw9pdr/sRk9qKT9DmmJR3iW3+Dg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/get-soda/soda-releases/main/releases/Soda202605092139-202605092012.delta" sparkle:deltaFrom="202605092012" length="1981174" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="L1KNKDhaqKuIvGFu2fR1JPKboXhz0fdXDJzS3gxCPK8LXNAcbxtZ/Fks/CT9a6SyRguce5cTFmFk7H8Vjws3Ag=="/>
-                <enclosure url="https://raw.githubusercontent.com/get-soda/soda-releases/main/releases/Soda202605092139-202605091844.delta" sparkle:deltaFrom="202605091844" length="1989754" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="PhjtiHslJUjGlEU3MFXn54mnvQDCJx7QuOJOJchcPGOKTH7TNG1jCaecNaLTowieoA9+/ejYnmuQB2cah1SCCQ=="/>
-                <enclosure url="https://raw.githubusercontent.com/get-soda/soda-releases/main/releases/Soda202605092139-202605081247.delta" sparkle:deltaFrom="202605081247" length="2098398" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="IpXzNlVRWIVaOwFIm50v5tYYYRFk3B0KSBtj0J+okjpfWmh5aUtJy8akTj2T73Uy9vx4nnBzkVQ54VDv8Q3gDg=="/>
-                <enclosure url="https://raw.githubusercontent.com/get-soda/soda-releases/main/releases/Soda202605092139-202605081100.delta" sparkle:deltaFrom="202605081100" length="2099118" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="tx0mI03p8y39atZCG6yYa8lGqRxoBNYjhFiXcgWMxdOVc7mcfznex9SEm0yOOTGU/Fg4pDydrFOBU1HxsE8NDA=="/>
-                <enclosure url="https://raw.githubusercontent.com/get-soda/soda-releases/main/releases/Soda202605092139-202605041557.delta" sparkle:deltaFrom="202605041557" length="2311134" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="xmshw4I2Xmy94uymeCIiILlXztzVigK7VFA40AVgqxMUsBP2vOm4xvkdHKuLQHzvwnb9vi0op/pn6c5Pf5iQDA=="/>
-            </sparkle:deltas>
+            <enclosure url="https://raw.githubusercontent.com/get-soda/soda-releases/main/releases/Soda-1.0.1.zip" length="15471446" type="application/octet-stream" sparkle:edSignature="8wGaqCYmwwgiU9HMmU3UMzWxQhqfUcUdw9UK8vl0u7H2TkAZzLHi1bom91wTN4j+WM17C/65NnWKG5N3oCnCBQ=="/>
         </item>
         <item>
-            <title>1.0.6</title>
-            <pubDate>Sat, 09 May 2026 20:18:42 +0800</pubDate>
-            <sparkle:version>202605092012</sparkle:version>
-            <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
+            <title>1.0.0</title>
+            <pubDate>Sat, 02 May 2026 12:31:46 +0800</pubDate>
+            <sparkle:version>202605041553</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/get-soda/soda-releases/main/releases/Soda-1.0.6.zip" length="15602531" type="application/octet-stream" sparkle:edSignature="PWWxw1N51pQsQDrNxhWM2T7xpqv5BnbaxMKvNdkBSHoZtrzzUcEaPD6q05tnkWz2508LkfkUanyKIvTiKY+hCQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/get-soda/soda-releases/main/releases/Soda202605092012-202605091844.delta" sparkle:deltaFrom="202605091844" length="1296438" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="88nzhhirT3jd71ruWM/EWoskcbNMhtO5WJLhnVOduIA7IQrBYmAc51ATb8l6hl0UfXUhfvAUtAFci3wEFwekBA=="/>
-                <enclosure url="https://raw.githubusercontent.com/get-soda/soda-releases/main/releases/Soda202605092012-202605081247.delta" sparkle:deltaFrom="202605081247" length="1755714" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="yEFEVrkoqm2kiP71fxiRuLe//1+qQ71KZBcV3aGfBesjzk6TsHblK54NRzcFjKW1yA/rhsLDHTWldMuC12rtCQ=="/>
-                <enclosure url="https://raw.githubusercontent.com/get-soda/soda-releases/main/releases/Soda202605092012-202605081100.delta" sparkle:deltaFrom="202605081100" length="1756962" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="0/ZokyvZxxsyy0vz8mZjJ0zuFVJlRG00CJa5mLTyEw/WmOWAbFqVq/2aOiymyuVHvORD6heRT7tMwRXki0zTCg=="/>
-                <enclosure url="https://raw.githubusercontent.com/get-soda/soda-releases/main/releases/Soda202605092012-202605041557.delta" sparkle:deltaFrom="202605041557" length="2172774" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="CB8+slB3y8bB25alZyqSYonm05tajZWDrELKJfvNGCp8o5kigpaIQy9zdxfsO0cVykjwG3ZUNykXbupBWoRQAg=="/>
-                <enclosure url="https://raw.githubusercontent.com/get-soda/soda-releases/main/releases/Soda202605092012-202605041553.delta" sparkle:deltaFrom="202605041553" length="2173702" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="XTLwSXJglIDNyLnS7pjH5+gPrtZWRDHL7XP43709Cn/ZPg7aNAregtyVGvEv51JKycg8iQab6TsJf5QKe7tBAw=="/>
-            </sparkle:deltas>
+            <enclosure url="https://raw.githubusercontent.com/get-soda/soda-releases/main/releases/Soda-1.0.0.zip" length="15471475" type="application/octet-stream" sparkle:edSignature="n9H5bK3RaOtO62rTAfYGEjy8vHIJmTEgmMfy3RilVdOtR17KewarmvC1b2LW6H0A25Z64fUZzlOXgn5EroLXAw=="/>
         </item>
     </channel>
 </rss>
