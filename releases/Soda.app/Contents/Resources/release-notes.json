@@ -1,0 +1,8 @@
+{
+  "version": "0.0.0",
+  "build_number": null,
+  "title": "Placeholder",
+  "summary": "This file is replaced at packaging time by scripts/release.sh.",
+  "details_url": "https://example.com",
+  "icon_asset": null
+}

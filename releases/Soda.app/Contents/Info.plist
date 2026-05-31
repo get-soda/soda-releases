@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BuildMachineOSBuild</key>
+	<string>25D2128</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>Soda</string>
+	<key>CFBundleExecutable</key>
+	<string>Soda</string>
+	<key>CFBundleIconFile</key>
+	<string>AppIcon</string>
+	<key>CFBundleIconName</key>
+	<string>AppIcon</string>
+	<key>CFBundleIdentifier</key>
+	<string>app.getsoda.desktop</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Soda</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0.3</string>
+	<key>CFBundleSupportedPlatforms</key>
+	<array>
+		<string>MacOSX</string>
+	</array>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string>Soda OAuth</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>soda</string>
+			</array>
+		</dict>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>202605191917</string>
+	<key>DTCompiler</key>
+	<string>com.apple.compilers.llvm.clang.1_0</string>
+	<key>DTPlatformBuild</key>
+	<string>25C58</string>
+	<key>DTPlatformName</key>
+	<string>macosx</string>
+	<key>DTPlatformVersion</key>
+	<string>26.2</string>
+	<key>DTSDKBuild</key>
+	<string>25C58</string>
+	<key>DTSDKName</key>
+	<string>macosx26.2</string>
+	<key>DTXcode</key>
+	<string>2630</string>
+	<key>DTXcodeBuild</key>
+	<string>17C529</string>
+	<key>LSApplicationCategoryType</key>
+	<string>public.app-category.productivity</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>14.6</string>
+	<key>LSUIElement</key>
+	<true/>
+	<key>NSAppleEventsUsageDescription</key>
+	<string>Soda needs to check your browser tabs to detect active meeting calls (Google Meet, Zoom Web, Teams Web, etc.). No browsing data is stored — only known meeting URLs are matched.</string>
+	<key>NSCalendarsUsageDescription</key>
+	<string>Soda accesses your calendar to match detected calls with calendar events. This identifies meeting participants so their CRM records can be looked up automatically. Calendar data is processed locally and only participant names and emails are used.</string>
+	<key>NSInputMonitoringUsageDescription</key>
+	<string>Soda listens for your double-tap ⌘ shortcut to open the command bar. No keystrokes are logged or stored — only the ⌘ key is observed.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Soda uses the microphone to transcribe your calls in real-time when a recipe requires it. Audio is processed on-device using WhisperKit and is never sent to external servers.</string>
+	<key>NSScreenCaptureUsageDescription</key>
+	<string>Soda uses Screen Recording to capture call audio for transcription. This allows Soda to separately identify what the remote participant says during a call.</string>
+	<key>SUEnableAutomaticChecks</key>
+	<true/>
+	<key>SUEnableInstallerLauncherService</key>
+	<false/>
+	<key>SUFeedURL</key>
+	<string>https://raw.githubusercontent.com/get-soda/soda-releases/main/appcast.xml</string>
+	<key>SUPublicEDKey</key>
+	<string>UupY+vUPvIVhOpsj62DWyclRoq81reg5TR5zPqp99iA=</string>
+	<key>SUScheduledCheckInterval</key>
+	<integer>86400</integer>
+</dict>
+</plist>

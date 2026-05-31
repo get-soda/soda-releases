@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSAppleEventsUsageDescription</key>
+	<string>Soda needs to check your browser tabs to detect active meeting calls (Google Meet, Zoom Web, Teams Web, etc.). No browsing data is stored — only known meeting URLs are matched.</string>
+	<key>NSInputMonitoringUsageDescription</key>
+	<string>Soda listens for your double-tap ⌘ shortcut to open the command bar. No keystrokes are logged or stored — only the ⌘ key is observed.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Soda uses the microphone to transcribe your calls in real-time when a recipe requires it. Audio is processed on-device using WhisperKit and is never sent to external servers.</string>
+	<key>NSScreenCaptureUsageDescription</key>
+	<string>Soda uses Screen Recording to capture call audio for transcription. This allows Soda to separately identify what the remote participant says during a call.</string>
+	<key>NSCalendarsUsageDescription</key>
+	<string>Soda accesses your calendar to match detected calls with calendar events. This identifies meeting participants so their CRM records can be looked up automatically. Calendar data is processed locally and only participant names and emails are used.</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string>Soda OAuth</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>soda</string>
+			</array>
+		</dict>
+	</array>
+	<key>SUFeedURL</key>
+	<string>https://raw.githubusercontent.com/get-soda/soda-releases/main/appcast.xml</string>
+	<key>SUPublicEDKey</key>
+	<string>UupY+vUPvIVhOpsj62DWyclRoq81reg5TR5zPqp99iA=</string>
+	<key>SUEnableAutomaticChecks</key>
+	<true/>
+	<key>SUScheduledCheckInterval</key>
+	<integer>86400</integer>
+	<key>SUEnableInstallerLauncherService</key>
+	<false/>
+</dict>
+</plist>
